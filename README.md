@@ -1,4 +1,4 @@
-# User manual [DCT\_DST\_OnetoFour(double and single)-MATLAB\_CUDA\_MEX]
+# DCT\_DST\_OnetoFour(double and single)-MATLAB\_CUDA\_MEX
 
 
 # To compile:
