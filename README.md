@@ -1,30 +1,5 @@
-# User manual [DCT\_DST\_OnetoFour(double and single)-
-MATLAB\_CUDA\_MEX
-# ]
+# User manual [DCT\_DST\_OnetoFour(double and single)-MATLAB\_CUDA\_MEX]
 
-/\*
-
- \* Discrete Cosine/Sine Transform (DCT/DST and IDCT/IDST one to four-all in one)
-
- \* DCT/DST and IDCT/IDST I ---\&gt; IV
-
- \* This CUDA code can handle/work with any type of the input mxArrays,
-
- \* GPUarray or standard matlab CPU array as input {prhs [0]:= mxGPUArray or CPU Array}
-
- \* GpuArray/cpuArray output, B=Discrete Transform (A, type of Transform (sine or cosine), type of Transform (direct/inverse), type of DCT/DST or IDCT/IDST, dimensions).
-
- \* Developed at UCL, Institute of Neurology, 12 Queen Square, WC1N 3AR, London
-
- \* Welcome Trust Centre for Neuroimaging
-
- \* Part of the project SPM ([http://www.fil.ion.ucl.ac.uk/spm](http://www.fil.ion.ucl.ac.uk/spm))
-
- \* Copyright 2018
-
- \* Kevin Bronik
-
- \*/
 
 # To compile:
 
