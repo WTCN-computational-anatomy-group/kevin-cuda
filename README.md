@@ -33,7 +33,7 @@ Type of DCT/DST or IDCT/IDST: = one, two, three or four      (I, II, III, IV)
 Dimensions: = row or column           (dimension to operate along)
 ```
 
-
+<br>
  <img src="images/page1.jpg" alt="Example" width="3000" height="1000" />
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
  <img src="images/page2.jpg" alt="Example" width="2500" height="1000" />
