@@ -31,8 +31,8 @@ Type of Transformation: = direct or inverse
 Type of DCT/DST or IDCT/IDST: = one, two, three or four      (I, II, III, IV)
 
 Dimensions: = row or column           (dimension to operate along)
-
-(For example)
+..................................................................................................
+For example:
 
 >> a = [1, 2, 3; 4, 5, 6; 7, 8, 9];    --- (original input array)
 >> a=single (a)
@@ -54,6 +54,7 @@ e =
     6.9282    8.6603   10.3923
    -4.2426   -4.2426   -4.2426
    -0.0000   -0.0000   -0.0000
+..................................................................................................
 
 ```
 
