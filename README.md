@@ -7,7 +7,7 @@ First try the method described here:
 
 [https://uk.mathworks.com/help/distcomp/run-mex-functions-containing-cuda-code.html](https://uk.mathworks.com/help/distcomp/run-mex-functions-containing-cuda-code.html)
 
-After successful compiling running and testing thensimply try following statement (copy and paste in Matlab and enter):
+After successful compiling running and testing then simply try following statement (copy and paste in Matlab and enter):
 ```
 >> debug_Discrete_Transform(false)
 
