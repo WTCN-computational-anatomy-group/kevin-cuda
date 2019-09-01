@@ -12,7 +12,7 @@
  # CUDA Matlab (Dense matrix manipulation)
  
  * The CUDA code can handle/work with  any type of the input mxArrays,  GPUarray or standard matlab CPU array as input {prhs[0], prhs[1] := mxGPUArray or CPU Array}
- * gpuArray output, C=MM3D_CUBLAS(A,B,alpha) C=A*B*alpha.
+ * C=MM3D_CUBLAS(A,B,alpha),  C=A*B*alpha
  * etc
 
  
