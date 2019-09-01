@@ -1,6 +1,6 @@
 # CUDA-Cusparse-OpenMp Matlab (Sparse matrix manipulation)
 
- * The CUDA-Cusparse code can handle/work with  any type of the input mxArrays, GPUarray or standard matlab CPU array as input   {prhs[0],...  := mxGPUArray or CPU Array}[double or complex double]
+ * The CUDA-Cusparse code can handle/work with  any type of the input mxArrays, GPUarray or standard matlab CPU array as input {prhs[0], ...  := mxGPUArray or CPU Array}[double or complex double]
  * Create sparse matrix  
  * Z=CuMatlab_sparse(X) 
  * Z=CuMatlab_sparse(X,Y)
