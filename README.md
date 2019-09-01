@@ -11,10 +11,10 @@ After successful compiling, running and testing then simply try following statem
 ```
 >> debug_Discrete_Transform(false)
 
-See the file “debug_Discrete_Transform.m” 
+[See the file “debug_Discrete_Transform.m”] 
 
 
-To compute Discrete Cosine/Sine Transform DCT/DST and inverse Discrete Cosine/Sine Transform IDCT/IDST user can choose/use the following unified syntax:
+# To compute Discrete Cosine/Sine Transform DCT/DST and inverse Discrete Cosine/Sine Transform IDCT/IDST user can choose/use the following unified syntax:
  
 B=Discrete_Transform (Input array A, Type of Discrete Transform, Type of Transformation, Type of DCT/DST or IDCT/IDST, Dimensions)
 
@@ -31,6 +31,30 @@ Type of Transformation: = direct or inverse
 Type of DCT/DST or IDCT/IDST: = one, two, three or four      (I, II, III, IV)
 
 Dimensions: = row or column           (dimension to operate along)
+
+(For example)
+
+>> a = [1, 2, 3; 4, 5, 6; 7, 8, 9];    --- (original input array)
+>> a=single (a)
+
+a =
+
+  3×3 single matrix
+
+     1     2     3
+     4     5     6
+     7     8     9
+>> e=Discrete_Transform (a, 'cosine', 'direct', 'two', 'row')
+                                                      --- (direct transform)
+
+e =
+
+  3×3 single matrix
+
+    6.9282    8.6603   10.3923
+   -4.2426   -4.2426   -4.2426
+   -0.0000   -0.0000   -0.0000
+
 ```
 
 <br>
