@@ -1,4 +1,4 @@
-# Shooting with sliding boundaries
+# Shooting with sliding boundary
 
 
  <br>
