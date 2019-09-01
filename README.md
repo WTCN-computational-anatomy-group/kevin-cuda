@@ -15,7 +15,7 @@ See the file &quot;debug\_Discrete\_Transform.m&quot;
 
 **To compute Discrete Cosine/Sine Transform DCT/DST and inverse Discrete Cosine/Sine Transform IDCT/IDST user can choose/use the following unified syntax:**
 
- <img src="images/page1.jpg" alt="Example" width="2500" height="1500" />
+ <img src="images/page1.jpg" alt="Example" width="3000" height="1000" />
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
  <img src="images/page2.jpg" alt="Example" width="2500" height="1500" />
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
